@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="co.gov.anla.ct" versionCode="3" version="3.0.1" xmlns:android="http://schemas.android.com/apk/res/android">
-  <name>ANLA</name>
-  <description>ANLA</description>
-  <author email="fgarcia@anla.gov.co" href="http://ct.anla.gov.co/oela">
-      ANLA
+  <name>LOOPA</name>
+  <description>LOOPA</description>
+  <author email="admin@jessonbejarano.com" href="jessonbejarano.com">
+      Jesson Bejarano
     </author>
-  <content src="index.html" />
+  <content src="app/dist/app/index.html" />
   <access origin="*" />
    
   <!-- Support for Cordova 5.0.0 plugin system -->
